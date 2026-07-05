@@ -91,13 +91,13 @@ Title: Название статьи | Views: 26K
 
 ## 📬 Контакты
 
-**По вопросам поддержки, доработок или заказа аналогичного бота — пишите:**
+**По вопросам поддержки, доработок — пишитe:**
 
 | **Автор** | Abemerik |
 |-----------|----------|
 | **GitHub** | [Профиль](https://github.com/Abemerik) |
 | **Telegram** | [@Abemerik](https://t.me/Abemerik) |
-| **Kwork** | [Профиль](https://kwork.ru/user/abemerik1) |
+| **Kwork** | [Профиль](https://kwork.ru/user/abemerik) |
 
 Всегда на связи. Отвечаю быстро.
 ---
